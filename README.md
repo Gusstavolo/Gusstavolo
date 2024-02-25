@@ -6,7 +6,7 @@
 </div>
 <div style= "display:flex; background-color: #ffffff; width:100px; height:100px;"></div>
 <h1 align="center">About</h1>
-<p><h1>>Gustavo Oliveira</h1>
+<p><h1>>Gustavo Oliveira<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" style="width:40px;"></h1>
 Estudante de Engenharia de Software e Ciência da Computação, dedicado ao aprendizado contínuo e ao aprimoramento de habilidades em desenvolvimento de software. Concentrado em explorar as nuances do desenvolvimento web, atualmente focado em tecnologias front-end.</p>
 
 <h2 align="center">Technologies</h2> 
