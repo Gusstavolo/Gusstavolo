@@ -16,6 +16,7 @@ Estudante de Engenharia de Software e Ciência da Computação, dedicado ao apre
   <img src="https://s9.gifyu.com/images/SFcdn.png"  style="width:150px; alt="JS"/>
 </div>
 
+
 <div align="center">
 <a href="https://git.io/streak-stats"><img  src="https://github-readme-streak-stats.herokuapp.com?user=Gusstavolo&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 </div>
