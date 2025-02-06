@@ -10,8 +10,6 @@ Estudante de Engenharia de Software dedicado ao aprendizado contínuo e ao aprim
 
 <h2 align="center">Technologies</h2> 
 <div style="display:flex; padding: 0; margin: 0;" align="center">
-  <img src="https://s9.gifyu.com/images/SFcdu.png"  style="width:120px; alt="html"/>
-  <img src="https://s9.gifyu.com/images/SFcdl.png"  style="width:120px; alt="CSS"/>
   <img src="https://s9.gifyu.com/images/SFcdn.png"  style="width:120px; alt="JS"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"  style="width:120px; alt="React.js"/>
 </div>
